@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aiia22
 - 👀 I’m interested in AI and Blockchain Technology
 - 🌱 I’m currently learning Java/C#/React/TypeScript
-- 💞️ I’m looking to collaborate nothing at the moment 
+- 💞️ I’m not looking to collaborate in anything at the moment 
 - 📫 How to reach me ...send a carrier pigeon... 
 
 <!---
