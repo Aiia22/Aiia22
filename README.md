@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in AI and Blockchain Technology.
 
-- 🌱 Currently, I'm focused on learning Java, C#, React, and TypeScript.
+- 🌱 Currently, I'm focused on learning Java, C#, React, Python and TypeScript.
 
 - 💞️ I'm open to collaborating on interesting projects that align with my interests and skillset.
 
